@@ -1,4 +1,4 @@
-# StayNest Delta Lakehouse - Session 7
+# StayNest Delta Lakehouse
 
 My submission for the Codebasics Session 7 assignment. I did everything in a Databricks Free Edition notebook using PySpark and Spark SQL.
 
